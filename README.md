@@ -5,7 +5,7 @@ python web scraper for automobile workshop repair manuals from https://manuals.c
 Steps:
 
 0. Download code and create folders `raw/` and `crop/`
-`
+
 1. Update `config.py` for your URL and min and max page
 
 2. Run web scraping code. Update config.py if you can't get all the pages in one shot
@@ -19,6 +19,8 @@ Steps:
 4. Run `merge_pdf.py` to combine individual pdfs into one output file: `full_manual.pdf`
 
    `$ python merge_pdf.py`
+   
+99. Check the contents of `full_manual.pdf` and if satisfied, manually delete temp folders `raw/` and `crop/`
    
    
    
