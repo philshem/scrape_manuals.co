@@ -1,6 +1,6 @@
 # scrape_manuals.co
-python web scraper for automobile workshop repair manuals from https://manuals.co
-
++ Python web scraper for automobile workshop repair manuals from https://manuals.co
++ Generates one pdf `full_manual.pdf` by converting individual html pages to pdf, cropping the manual page, and merging individual pdfs into one.
 
 Steps:
 
