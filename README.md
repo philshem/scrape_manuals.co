@@ -20,7 +20,7 @@ Steps:
 
    `$ python merge_pdf.py`
    
-99. Check the contents of `full_manual.pdf` and if satisfied, manually delete temp folders `raw/` and `crop/`
+99. Check the contents of `full_manual.pdf` and if satisfied, manually delete individual pdf files in the temp folders `raw/` and `crop/`
    
    
    
