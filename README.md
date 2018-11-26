@@ -23,7 +23,10 @@ Steps:
 99. Check the contents of `full_manual.pdf` and if satisfied, manually delete individual pdf files in the temp folders `raw/` and `crop/`
    
    
-   
+------------------
+
+Requires standard Python and a couple non-standard libraries: [pdfkit](https://pypi.org/project/pdfkit/) and [PyPDF2](https://pypi.org/project/PyPDF2/).
+
 ------------------
 
 No warranty. For personal and experimental use. Public domain license. 
